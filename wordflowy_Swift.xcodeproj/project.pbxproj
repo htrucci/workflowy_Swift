@@ -14,6 +14,7 @@
 		0DB794D61EF80ADC000CAB99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DB794D41EF80ADC000CAB99 /* LaunchScreen.storyboard */; };
 		0DB794E11EF80ADD000CAB99 /* wordflowy_SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DB794E01EF80ADD000CAB99 /* wordflowy_SwiftTests.swift */; };
 		0DB794EC1EF80ADD000CAB99 /* wordflowy_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DB794EB1EF80ADD000CAB99 /* wordflowy_SwiftUITests.swift */; };
+		0DB794FA1EF80F69000CAB99 /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DB794F91EF80F69000CAB99 /* htmlView.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0DB794E71EF80ADD000CAB99 /* wordflowy_SwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = wordflowy_SwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DB794EB1EF80ADD000CAB99 /* wordflowy_SwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wordflowy_SwiftUITests.swift; sourceTree = "<group>"; };
 		0DB794ED1EF80ADD000CAB99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DB794F91EF80F69000CAB99 /* htmlView.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				0DB794CB1EF80ADC000CAB99 /* AppDelegate.swift */,
 				0DB794CD1EF80ADC000CAB99 /* ViewController.swift */,
 				0DB794CF1EF80ADC000CAB99 /* Main.storyboard */,
+				0DB794F91EF80F69000CAB99 /* htmlView.html */,
 				0DB794D21EF80ADC000CAB99 /* Assets.xcassets */,
 				0DB794D41EF80ADC000CAB99 /* LaunchScreen.storyboard */,
 				0DB794D71EF80ADC000CAB99 /* Info.plist */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DB794FA1EF80F69000CAB99 /* htmlView.html in Resources */,
 				0DB794D61EF80ADC000CAB99 /* LaunchScreen.storyboard in Resources */,
 				0DB794D31EF80ADC000CAB99 /* Assets.xcassets in Resources */,
 				0DB794D11EF80ADC000CAB99 /* Main.storyboard in Resources */,
